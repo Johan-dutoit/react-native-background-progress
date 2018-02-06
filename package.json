@@ -12,6 +12,10 @@
     "background",
     "progress"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johan-dutoit/react-native-background-progress.git"
+  },
   "author": "Johan du Toit",
   "license": "MIT",
   "devDependencies": {
