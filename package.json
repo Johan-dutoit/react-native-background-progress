@@ -1,0 +1,20 @@
+{
+  "name": "react-native-background-progress",
+  "version": "1.0.0",
+  "description": "Background progress for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "background",
+    "progress"
+  ],
+  "author": "Johan du Toit",
+  "license": "MIT",
+  "devDependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
