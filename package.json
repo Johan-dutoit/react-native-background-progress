@@ -19,6 +19,7 @@
   "author": "Johan du Toit",
   "license": "MIT",
   "devDependencies": {
+    "react-native": "0.52.2",
     "prop-types": "^15.6.0"
   }
 }
