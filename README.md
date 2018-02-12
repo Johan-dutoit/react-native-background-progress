@@ -73,11 +73,13 @@ prevStep = () => {
 
 ## <a name='properties'>Properties</a>
 
-| Prop | Description | Default |
-|---|---|---|
-|**`duration`**|The duration each view takes to load in|`300`|
-|**`staggerDelay`**|The delay between each animation|`200`|
-|**`useNativeDriver`**|Use the native drive for the animations|`true`|
+| Prop | Description | Required | Default |
+|---|---|--|--|
+|**`backgroundColor`**|The main color for the background|`true`|`N/A`|
+|**`stepColor`**|The color indicating progress|`true`|`N/A`|
+|**`containerStyle`**|Override the container styles| `false` |`N/A`|
+|**`friction`**|Controls the friction applied to the animation when a step occurs|`false`|`15`|
+|**`tension`**|Controls the tensions applied to the animation when a step occurs|`false`|`140`|
 
 ###### <a href='#top'>Top</a>
 

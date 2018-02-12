@@ -83,7 +83,6 @@ BackgroundProgress.propTypes = {
   backgroundColor: propTypes.string.isRequired,
   stepColor: propTypes.string.isRequired,
   // containerStyle: View.propTypes.style,
-  stepDuration: propTypes.number,
   friction: propTypes.number,
   tension: propTypes.number,
 };
